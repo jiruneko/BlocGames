@@ -1,1 +1,1 @@
-# BlockGames
+# Blocks Game
